@@ -106,31 +106,6 @@ The proposed model is evaluated using the following performance metrics:
 
 The model demonstrates strong classification performance across the eight papaya leaf disease categories.
 
-## 🚀 Installation and Execution
-
-### 1. Clone the Repository
-
-```bash
-git clone <your-github-repository-url>
-```
-
-### 2. Navigate to the Project Directory
-
-```bash
-cd Papaya-Leaf-Disease-Detection
-```
-
-### 3. Install Required Libraries
-
-```bash
-pip install torch torchvision
-pip install numpy pandas matplotlib scikit-learn opencv-python
-```
-
-### 4. Run the Project
-
-Open the project notebook or Python script in Jupyter Notebook, Google Colab, or VS Code and execute the cells.
-
 ## 🔮 Future Enhancements
 
 - Develop a web-based disease detection application.
@@ -155,7 +130,3 @@ Open the project notebook or Python script in Jupyter Notebook, Google Colab, or
 **Programming Language:** Python
 
 **Framework:** PyTorch
-
-## 📜 License
-
-This project was developed for academic and educational purposes.
